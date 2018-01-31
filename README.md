@@ -16,7 +16,7 @@ Please see our video tutorial on [Youtube](https://youtu.be/wHdQDL8BWpk).
 
 ## COSSIM Virtual Machine
 
-You can download our VM (Ubuntu 14.04) with all cossim subparts from [here](http://kition.mhl.tuc.gr:8000/d/5970fdcb2c/). The Password of VM cossim user is `cossim1234`, while you can execute it through VMWare Player (https://www.vmware.com/products/player/playerpro-evaluation.html).
+You can download our VM (Ubuntu 14.04) with all cossim components from [here](http://kition.mhl.tuc.gr:8000/d/5970fdcb2c/). The Password of VM cossim user is `cossim1234`, while you can execute it through VMWare Player (https://www.vmware.com/products/player/playerpro-evaluation.html).
 
 ## Licensing
 
