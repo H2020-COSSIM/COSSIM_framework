@@ -12,7 +12,7 @@ Please read Section 2 of [UserGuide](UserGuide.pdf) file.
 
 ## COSSIM Setup Instructions (Video-Tutorial)
 
-Please see our video tutorial on youtube (URL).
+Please see our video tutorial on [Youtube](https://youtu.be/wHdQDL8BWpk).
 
 ## Licensing
 
