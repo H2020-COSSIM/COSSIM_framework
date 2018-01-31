@@ -12,7 +12,7 @@ Please read Section 2 of [UserGuide](UserGuide.pdf) file.
 
 ## COSSIM Video-Tutorial
 
-Please see our video tutorial on [Youtube](https://youtu.be/wHdQDL8BWpk).
+Please see our video tutorial on [Youtube](https://youtu.be/QZTwQv0xqhk).
 
 ## COSSIM Virtual Machine
 
