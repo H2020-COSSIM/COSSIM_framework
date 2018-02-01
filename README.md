@@ -4,11 +4,11 @@ All documentation, installation and setup instructions to deploy the COSSIM fram
 
 ## COSSIM Installation
 
-Please read Section 1 of [UserGuide](UserGuide.pdf) file.
+Please read Section 1 of [UserGuide](COSSIMUG_V1.1.pdf) file.
 
 ## COSSIM Setup Instructions
 
-Please read Section 2 of [UserGuide](UserGuide.pdf) file.
+Please read Section 2 of [UserGuide](COSSIMUG_V1.1.pdf) file.
 
 ## COSSIM Video-Tutorial
 
