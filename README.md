@@ -24,9 +24,18 @@ Refer to the [LICENSE](LICENSE) file included.
 
 #### Authors
 
-* Nikolaos Tampouratzis (ntampouratzis@isc.tuc.gr)
+* Nikolaos Tampouratzis (tampouratzis@exapsys.eu)
 
 Please contact for any questions.
+
+## References
+<a id="1">[1]</a> 
+N. Tampouratzis, I. Papaefstathiou, A. Nikitakis, A. Brokalakis,
+S. Andrianakis, A. Dollas, M. Marcon, and E. Plebani, “A novel,
+highly integrated simulator for parallel and distributed systems,”
+ACM Trans. Archit. Code Optim., vol. 17, no. 1, Mar. 2020.
+Available: https://dl.acm.org/doi/10.1145/3378934
+
 
 ## Acknowledgments
 
