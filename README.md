@@ -13,10 +13,11 @@ Please read Section 2 of [UserGuide](COSSIMUG_V1.1.pdf) file.
 ## COSSIM Video-Tutorial
 
 Please see our video tutorial on [Youtube](https://youtu.be/QZTwQv0xqhk).
+In addition you can download our updated video tutorial which supports RISCV [here](http://kition.mhl.tuc.gr:8000/f/115b30824b/).
 
 ## COSSIM Virtual Machine
 
-You can download our VM (Ubuntu 14.04) with all cossim components from [here](http://kition.mhl.tuc.gr:8000/d/5970fdcb2c/). The Password of VM cossim user is `cossim1234`, while you can execute it through VMWare Player (https://www.vmware.com/products/player/playerpro-evaluation.html).
+You can download our VM (Ubuntu 20.04) with all cossim components from [here](http://kition.mhl.tuc.gr:8000/d/8a0be2bdcf/). The Password of VM cossim user is `cossim1234`, while you can execute it through VMWare Player (https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html).
 
 ## Licensing
 
