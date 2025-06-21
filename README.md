@@ -13,7 +13,7 @@ Please read Section 2 of [UserGuide](COSSIMUG_V1.1.pdf) file.
 ## COSSIM Video-Tutorial
 
 Please see our video tutorial on [Youtube](https://youtu.be/QZTwQv0xqhk).
-In addition you can download our updated video tutorial which supports RISCV [here](http://kition.mhl.tuc.gr:8000/f/115b30824b/).
+In addition you can download our updated video tutorial which supports RISCV [here](https://ihuedu-my.sharepoint.com/:v:/g/personal/ntampouratzis_ihu_gr/Ea-4Z5ERBIlGnrHIjwFLzqABs7ATnLVh2F2uE432SfMcPw).
 
 ## COSSIM Virtual Machine
 
