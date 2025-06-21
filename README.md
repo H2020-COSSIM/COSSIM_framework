@@ -17,7 +17,7 @@ In addition you can download our updated video tutorial which supports RISCV [he
 
 ## COSSIM Virtual Machine
 
-You can download our VM (Ubuntu 20.04) with all cossim components from [here](http://kition.mhl.tuc.gr:8000/d/8a0be2bdcf/). The Password of VM cossim user is `cossim1234`, while you can execute it through VMWare Player (https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html).
+You can download our VM (Ubuntu 20.04) with all cossim components from [here](https://ihuedu-my.sharepoint.com/:f:/g/personal/ntampouratzis_ihu_gr/Et99IfwnBPNDjp26OWoP6GkBp1j1TwU66_I11m0prF2fbQ?e=OoWBQN). The Password of VM cossim user is `cossim1234`, while you can execute it through VMWare Player (https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html).
 
 ## Licensing
 
